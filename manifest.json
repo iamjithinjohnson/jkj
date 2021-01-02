@@ -1,7 +1,7 @@
 {
     "name": "personal_website",
     "short_name": "personal_website",
-    "start_url": "index.html",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
