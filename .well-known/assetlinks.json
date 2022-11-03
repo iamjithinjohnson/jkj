@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.mutualevents.app",
+            "sha256_cert_fingerprints": [
+                "0F:9D:A8:BA:62:CB:85:7C:3B:22:8A:58:34:C3:DB:74:52:D2:F2:8D:32:00:C3:A6:CD:AD:40:F8:A1:CF:7D:18"
+            ]
+        }
+    }
+]
